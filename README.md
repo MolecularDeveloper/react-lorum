@@ -1,0 +1,2 @@
+# react-lorum 
+## text generator
